@@ -1,0 +1,33 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* Asegúrate de que el contenedor ocupe el 100% del alto de la pantalla */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Asegura que el contenedor principal tenga suficiente altura para la topbar */
+.container-fluid {
+    height: 100vh; /* Esto hace que el contenedor ocupe el 100% de la altura de la ventana */
+    padding-top: 56px; /* Ajusta esto para la altura de la topbar */
+}
+
+/* El menú lateral ocupa toda la altura de su contenedor */
+#sidebar {
+    height: calc(100vh - 56px); /* Ajusta la altura del menú lateral para que no se superponga con la topbar */
+    position: fixed; /* Esto asegura que el menú quede fijo y no se mueva con el contenido */
+    top: 56px; /* Ajusta esto para alinear el menú debajo de la topbar */
+    left: 0;
+    bottom: 0;
+}
+
+/* El contenido principal se ajusta para no estar debajo del menú lateral */
+main {
+    margin-left: 250px; /* Ajusta este valor según el ancho de tu menú lateral */
+}
+
+/* Estilos para la topbar */
+header.navbar {
+    z-index: 1030; /* Asegura que la topbar esté sobre otros elementos */
+    border-bottom: 1px solid #dee2e6;
+}
