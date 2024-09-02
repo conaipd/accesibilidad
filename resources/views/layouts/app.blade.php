@@ -39,15 +39,81 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">
-                                <i class="bi bi-person"></i> Criterio 1
+                            <a class="nav-link" href="{{ url('/a/c1') }}">
+                                <i class="bi bi-gear"></i> Criterio 1
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">
+                            <a class="nav-link" href="{{ url('/a/c2') }}">
                                 <i class="bi bi-gear"></i> Criterio 2
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c3') }}">
+                                <i class="bi bi-gear"></i> Criterio 3
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c4') }}">
+                                <i class="bi bi-gear"></i> Criterio 4
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c5') }}">
+                                <i class="bi bi-gear"></i> Criterio 5
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c6') }}">
+                                <i class="bi bi-gear"></i> Criterio 6
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c7') }}">
+                                <i class="bi bi-gear"></i> Criterio 7
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c8') }}">
+                                <i class="bi bi-gear"></i> Criterio 8
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c9') }}">
+                                <i class="bi bi-gear"></i> Criterio 9
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c10') }}">
+                                <i class="bi bi-gear"></i> Criterio 10
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c11') }}">
+                                <i class="bi bi-gear"></i> Criterio 11
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c12') }}">
+                                <i class="bi bi-gear"></i> Criterio 12
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c13') }}">
+                                <i class="bi bi-gear"></i> Criterio 13
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c14') }}">
+                                <i class="bi bi-gear"></i> Criterio 14
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url('/a/c15') }}">
+                                <i class="bi bi-gear"></i> Criterio 15
+                            </a>
+                        </li>
+
                         <!-- Agrega más ítems de menú aquí -->
                     </ul>
                 </div>

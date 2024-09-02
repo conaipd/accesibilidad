@@ -3,6 +3,6 @@
 @section('title', 'Inicio')
 
 @section('content')
-    <h1>Bienvenido a la página de inicio</h1>
+    <h1>Nivel A > Criterio 1: Contenido no textual</h1>
     <p>Contenido de la página principal aquí.</p>
 @endsection
