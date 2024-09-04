@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "title": "Oferta Especial 1",
+        "description": "¡Aprovecha esta oferta especial con un 20% de descuento en todos los productos!"
+    },
+    {
+        "id": 2,
+        "title": "Oferta Especial 2",
+        "description": "Compra uno y lleva el segundo al 50% de descuento. ¡Solo por hoy!"
+    },
+    {
+        "id": 3,
+        "title": "Oferta Especial 3",
+        "description": "Recibe un regalo con cada compra superior a $100. ¡No te lo pierdas!"
+    },
+    {
+        "id": 4,
+        "title": "Oferta Especial 4",
+        "description": "Envío gratis en todas las compras durante esta semana."
+    },
+    {
+        "id": 5,
+        "title": "Oferta Especial 5",
+        "description": "Descuento del 30% en nuestra nueva colección de verano."
+    },
+    {
+        "id": 6,
+        "title": "Oferta Especial 6",
+        "description": "Compra 3 productos y obtén un 40% de descuento en el más barato."
+    },
+    {
+        "id": 7,
+        "title": "Oferta Especial 7",
+        "description": "Hasta un 70% de descuento en artículos seleccionados. ¡Solo hasta el fin de semana!"
+    },
+    {
+        "id": 8,
+        "title": "Oferta Especial 8",
+        "description": "Aprovecha un 25% de descuento en todas las compras realizadas en nuestra tienda física."
+    },
+    {
+        "id": 9,
+        "title": "Oferta Especial 9",
+        "description": "Descuentos especiales para estudiantes. ¡Presenta tu ID estudiantil para obtener un 15% de descuento!"
+    },
+    {
+        "id": 10,
+        "title": "Oferta Especial 10",
+        "description": "Compra uno y llévate el segundo a mitad de precio en productos seleccionados."
+    },
+    {
+        "id": 11,
+        "title": "Oferta Especial 11",
+        "description": "Suscríbete a nuestro boletín y recibe un 10% de descuento en tu próxima compra."
+    },
+    {
+        "id": 12,
+        "title": "Oferta Especial 12",
+        "description": "¡Oferta exclusiva en línea! 20% de descuento en todas las compras hechas desde nuestra web."
+    },
+    {
+        "id": 13,
+        "title": "Oferta Especial 13",
+        "description": "Descuento del 50% en tu segunda compra cuando adquieras productos de nuestra línea premium."
+    },
+    {
+        "id": 14,
+        "title": "Oferta Especial 14",
+        "description": "Descuentos por volumen: compra más de 5 artículos y recibe un 30% de descuento en tu compra total."
+    },
+    {
+        "id": 15,
+        "title": "Oferta Especial 15",
+        "description": "Compra durante el Black Friday y obtén un 60% de descuento en productos seleccionados."
+    }
+]
