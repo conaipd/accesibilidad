@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\FormController;
 
 Route::get('/', function () {
     return view('/home');
@@ -79,4 +80,95 @@ Route::get('/a/c14', function () {
 // Ruta para /a/c15
 Route::get('/a/c15', function () {
     return view('/a/c15');
+});
+
+// Ruta para /a/c16
+Route::get('/a/c16', function () {
+    return view('/a/c16');
+});
+
+// Ruta para /a/c17
+Route::get('/a/c17', function () {
+    return view('/a/c17');
+});
+
+// Ruta para /a/c18
+Route::get('/a/c18', function () {
+    return view('/a/c18');
+});
+
+// Ruta para /a/c19
+Route::get('/a/c19', function () {
+    return view('/a/c19');
+});
+
+// Ruta para el formulario con identificación de errores
+Route::get('/formulario', [FormController::class, 'showForm'])->name('formulario.show');
+Route::post('/formulario', [FormController::class, 'handleForm'])->name('formulario.handle');
+Route::get('/formulario-sin-errores', [FormController::class, 'showFormWithoutErrors'])->name('formulario.sinErrores');
+Route::post('/formulario-sin-errores', [FormController::class, 'handleFormWithoutErrors'])->name('formulariosinerrores.handle');
+
+
+
+// Ruta para /a/c20
+Route::get('/a/c20', function () {
+    return view('/a/c20');
+});
+
+
+
+
+// Ruta para /aa/c1
+Route::get('/aa/c1', function () {
+    return view('/aa/c1');
+});
+
+// Ruta para /aa/c2
+Route::get('/aa/c2', function () {
+    return view('/aa/c2');
+});
+
+// Ruta para /aa/c3
+Route::get('/aa/c3', function () {
+    return view('/aa/c3');
+});
+
+// Ruta para /aa/c4
+Route::get('/aa/c4', function () {
+    return view('/aa/c4');
+});
+
+// Ruta para /aa/c5
+Route::get('/aa/c5', function () {
+    return view('/aa/c5');
+});
+
+// Ruta para /aa/c6
+Route::get('/aa/c6', function () {
+    return view('/aa/c6');
+});
+
+// Ruta para /aa/c7
+Route::get('/aa/c7', function () {
+    return view('/aa/c7');
+});
+
+// Ruta para /aa/c8
+Route::get('/aa/c8', function () {
+    return view('/aa/c8');
+});
+
+// Ruta para /aa/c9
+Route::get('/aa/c9', function () {
+    return view('/aa/c9');
+});
+
+// Ruta para /aa/c10
+Route::get('/aa/c10', function () {
+    return view('/aa/c10');
+});
+
+// Ruta para /aa/c11
+Route::get('/aa/c11', function () {
+    return view('/aa/c11');
 });
