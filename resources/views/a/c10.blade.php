@@ -17,19 +17,19 @@
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
             <div class="row">
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7a.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9a.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Comprar</button>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7b.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9b.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Comprar</button>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7c.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9c.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Comprar</button>
                     </div>
@@ -39,27 +39,27 @@
         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
             <div class="row">
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7a.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9a.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="alert alert-dark" role="alert">
-                      Termo marca Stanley color rosa. <br>Precio: $#.##
+                      <p tabindex="1">Audifonos marca Bengoo color blanco. <br>Precio: $#.##</p>
                     </div>
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#paymentModal">Comprar</button>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7b.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9b.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="alert alert-dark" role="alert">
-                      Termo marca Stanley color azul. <br>Precio: $#.##
+                      <p tabindex="2">Audifonos marca Bengoo color negro. <br>Precio: $#.##</p>
                     </div>
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#paymentModal">Comprar</button>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7c.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9c.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="alert alert-dark" role="alert">
-                      Termo marca Stanley color verde. <br>Precio: $#.##
+                      <p tabindex="3">Audifonos marca Bengoo color rosa. <br>Precio: $#.##</p>
                     </div>
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#paymentModal">Comprar</button>

@@ -37,19 +37,19 @@
             </div>
             <div class="row">
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7a.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9a.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary">Comprar</button>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7b.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9b.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary">Comprar</button>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7c.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9c.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="mt-3" align="right">
                         <button type="submit" class="btn btn-primary">Comprar</button>
                     </div>
@@ -67,30 +67,30 @@
             </div>
             <div class="row">
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7a.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9a.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="alert alert-dark" role="alert">
-                      Termo marca Stanley color rosa. <br>Precio: $#.##
+                      Audifonos marca Benkoo color blanco. <br>Precio: $#.##
                     </div>
                     <div class="mt-3" align="right">
-                        <button type="submit" class="btn btn-primary">Comprar</button>
+                        <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#paymentModal">Comprar</button>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7b.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9b.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="alert alert-dark" role="alert">
-                      Termo marca Stanley color azul. <br>Precio: $#.##
+                      Audifonos marca Benkoo color negro. <br>Precio: $#.##
                     </div>
                     <div class="mt-3" align="right">
-                        <button type="submit" class="btn btn-primary">Comprar</button>
+                        <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#paymentModal">Comprar</button>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ asset('images/C7c.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
+                    <img src="{{ asset('images/C9c.jpg') }}" style="height: 300px;" alt="Imagen" class="img-fluid">
                     <div class="alert alert-dark" role="alert">
-                      Termo marca Stanley color verde. <br>Precio: $#.##
+                      Audifonos marca Benkoo color rosa. <br>Precio: $#.##
                     </div>
                     <div class="mt-3" align="right">
-                        <button type="submit" class="btn btn-primary">Comprar</button>
+                        <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#paymentModal">Comprar</button>
                     </div>
                 </div>
             </div>
