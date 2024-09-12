@@ -15,23 +15,24 @@
     </ul>
     <div class="tab-content my-4" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-            
-            <h1>Enlace con Propósito Claro</h1>
-            <p>Explora más sobre nuestras iniciativas y recursos:</p>
 
-            <p>Conoce nuestras <a href="/recursos" class="btn btn-info">Recursos Educativos</a>.</p>
-
-            <p>Descubre cómo puedes participar en <a href="/involucrarse" class="btn btn-primary">Involucrarse</a>.</p>
-
-        </div>
-        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-            
-            <h1>Enlace con Propósito Ambiguo</h1>
+            <h1>Enlaces</h1>
             <p>Descubre más sobre lo que hacemos:</p>
 
             <p>Explora nuestra <a href="/pagina1" class="btn btn-info">Página</a>.</p>
 
             <p>Más detalles aquí: <a href="/pagina2" class="btn btn-primary">Aquí</a>.</p>
+            
+
+        </div>
+        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+            
+            <h1>Enlaces</h1>
+            <p>Explora más sobre nuestras iniciativas y recursos:</p>
+
+            <p>Conoce nuestras <a href="/recursos" class="btn btn-info">Recursos Educativos</a>.</p>
+
+            <p>Descubre cómo puedes participar en <a href="/involucrarse" class="btn btn-primary">Involucrarse</a>.</p>            
 
         </div>
     </div>

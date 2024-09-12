@@ -16,13 +16,30 @@
     <div class="tab-content my-4" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
             
+            <p>
+                Este texto está en español. <br>
+                <span>This text is in English.</span>
+            </p>
 
+            <p >
+                Ce texte est en français. <br>
+                <span>Este texto está en español.</span>
+            </p>
 
 
         </div>
         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
             
 
+            <p>
+                Este texto está en español. <br>
+                <span lang="en">This text is in English.</span>
+            </p>
+
+            <p lang="fr">
+                Ce texte est en français. <br>
+                <span lang="es">Este texto está en español.</span>
+            </p>
 
             
         </div>

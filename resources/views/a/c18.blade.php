@@ -21,8 +21,7 @@
     <div class="tab-content my-4" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
             
-            <h1>Formulario Inesperado</h1>
-            <p>Este formulario tiene cambios inesperados que pueden desorientar a los usuarios.</p>
+            <h1>Formulario</h1>
 
             <form>
                 <div class="form-group">
@@ -49,8 +48,7 @@
         </div>
         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
             
-            <h1>Formulario Predecible</h1>
-            <p>Este formulario ha sido diseñado para ofrecer una experiencia predecible para los usuarios.</p>
+            <h1>Formulario</h1>
 
             <form>
                 <div class="form-group">

@@ -16,7 +16,7 @@
     <div class="tab-content my-4" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
             
-            <h1>Idioma Incorrecto</h1>
+            <h1>Idioma</h1>
             <p>Esta página no está especificada correctamente en términos de idioma.</p>
 
             <p>Bienvenido a nuestra página web. Aquí encontrará información relevante.</p>
@@ -28,7 +28,7 @@
         </div>
         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
             
-            <h1>Idioma Correcto</h1>
+            <h1>Idioma</h1>
             <p>Esta página está especificada en el idioma correcto.</p>
 
             <p>Bienvenido a nuestra página web. Aquí encontrará información relevante.</p>

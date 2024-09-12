@@ -105,8 +105,8 @@ Route::get('/a/c19', function () {
 // Ruta para el formulario con identificación de errores
 Route::get('/formulario', [FormController::class, 'showForm'])->name('formulario.show');
 Route::post('/formulario', [FormController::class, 'handleForm'])->name('formulario.handle');
-Route::get('/formulario-sin-errores', [FormController::class, 'showFormWithoutErrors'])->name('formulario.sinErrores');
-Route::post('/formulario-sin-errores', [FormController::class, 'handleFormWithoutErrors'])->name('formulariosinerrores.handle');
+Route::get('/formulario-se', [FormController::class, 'showFormWithoutErrors'])->name('formulario.sinErrores');
+Route::post('/formulario-se', [FormController::class, 'handleFormWithoutErrors'])->name('formulariosinerrores.handle');
 
 
 

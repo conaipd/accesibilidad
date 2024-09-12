@@ -16,13 +16,19 @@
     <div class="tab-content my-4" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
             
-
-
+            <video id="liveVideo" controls width="100%" autoplay>
+                <source src="{{ asset('video/videoplayback2.mp4') }}" type="video/mp4">
+                Tu navegador no soporta el elemento de video.
+            </video>
 
         </div>
         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
             
-
+            <video id="liveVideo" controls width="100%" autoplay>
+                <source src="{{ asset('video/videoplayback2.mp4') }}" type="video/mp4">
+                <track src="{{ asset('video/c2.vtt') }}" kind="subtitles" srclang="es" label="Español" default>
+                Tu navegador no soporta el elemento de video.
+            </video>
             
         </div>
     </div>

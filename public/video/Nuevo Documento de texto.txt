@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+Remover bandeja de impresor Braille.
+
+2
+00:00:03.000 --> 00:00:06.000
+Presiona la compuerta de la bandeja.
+
+3
+00:00:07.000 --> 00:00:11.000
+Levanta los gatillos de los laterales de la bandeja y extrae la bandeja.
+
+4
+00:00:12.000 --> 00:00:20.000
+posteriormente puedes colocar la bandeja nuevamente.
