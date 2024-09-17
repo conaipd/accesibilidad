@@ -32,15 +32,15 @@
         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
             
             <form action="/enviar" method="post">
-                <div>
-                    <label>Nombre:</label>
-                    <input type="text" name="nombre" placeholder="Ingrese su nombre">
+                <div class="form-group">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" name="nombre" class="form-control" placeholder="Ingrese su nombre">
                 </div>
-                <div>
-                    <label>Correo Electrónico:</label>
-                    <input type="email" name="email" placeholder="Ingrese su correo electrónico">
+                <div class="form-group">
+                    <label for="email">Correo Electrónico:</label>
+                    <input type="email" name="email" class="form-control" placeholder="Ingrese su correo electrónico">
                 </div>
-                <button type="submit">Enviar</button>
+                <button type="submit" class="btn btn-primary">Enviar</button>
             </form>
 
         </div>
