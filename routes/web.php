@@ -172,3 +172,68 @@ Route::get('/aa/c10', function () {
 Route::get('/aa/c11', function () {
     return view('/aa/c11');
 });
+
+
+
+
+
+Route::get('/aaa/c1', function () { 
+    return view('/aaa/c1'); 
+});
+
+Route::get('/aaa/c2', function () { 
+    return view('/aaa/c2'); 
+});
+
+Route::get('/aaa/c3', function () { 
+    return view('/aaa/c3'); 
+});
+
+Route::get('/aaa/c4', function () { 
+    return view('/aaa/c4'); 
+});
+
+Route::get('/aaa/c5', function () { 
+    return view('/aaa/c5'); 
+});
+
+Route::get('/aaa/c6', function () { 
+    return view('/aaa/c6'); 
+});
+
+Route::get('/aaa/c7', function () { 
+    return view('/aaa/c7'); 
+});
+
+Route::get('/aaa/c8', function () { 
+    return view('/aaa/c8'); 
+});
+
+Route::get('/aaa/c9', function () { 
+    return view('/aaa/c9'); 
+});
+
+Route::get('/aaa/c10', function () { 
+    return view('/aaa/c10'); 
+});
+
+Route::get('/aaa/c11', function () { 
+    return view('/aaa/c11'); 
+});
+
+Route::get('/aaa/c12', function () { 
+    return view('/aaa/c12'); 
+});
+
+Route::get('/aaa/c13', function () { 
+    return view('/aaa/c13'); 
+});
+
+Route::get('/aaa/c14', function () { 
+    return view('/aaa/c14'); 
+});
+
+Route::get('/aaa/c15', function () { 
+    return view('/aaa/c15'); 
+});
+
